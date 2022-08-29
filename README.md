@@ -26,3 +26,5 @@ Aboving code transfer 2.0 to 1.0
 tf.disable_v2_behavior()
 
 Aboving code disable v2's environment
+
+The Hand Writing Numbers Determiner with saving model and restore it to test.zip is my own model after training with the the highest three accuracy. Also, you can use the code in it to train your model and test. All impletations are well writed. You can just run one of them, and choose "Train" or "Test"
